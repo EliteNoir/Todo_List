@@ -1,0 +1,75 @@
+body{
+    font-family: Arial, sans-serif;
+    color: rgb(15, 15, 15);
+}
+#grtable{
+    width: 50%;
+}
+h1{
+    background-color:rgb(37, 140, 201) ;
+    color: aliceblue; 
+    padding: 2%; 
+}
+#btn{
+    background-color: rgb(39, 153, 219);
+    border-radius: 3px;
+    border: rgb(39, 153, 219);
+    
+}
+div{
+    background-color: white;
+}
+#end{
+    width: 92%;
+    background-color: black;
+    
+}
+i{
+    color: rgb(221, 10, 10);
+}
+#icon{
+    color: white;
+}
+#btns{
+    background-color: rgb(34, 34, 34);
+    border-radius: 5px;
+    margin-left: 4%;
+    padding: 2%;
+    
+}
+#recherche{
+    color: darkgray;
+    border-radius: 5px;
+}
+#one{
+    border: 1px solid gainsboro;
+    padding: 2%; 
+}
+#two{
+    border: 1px solid gainsboro; 
+    padding: 2%; 
+}
+#three{
+    border: 1px solid gainsboro; 
+    padding: 2%; 
+}
+#sdtable{
+    width: 92%;
+}
+button{
+    padding: 3%;
+}
+.first{
+    padding: 3%;
+    width: 80%;
+    margin-left: 4%;
+}
+.ajout{
+    padding: 3%;
+    width: 75%;
+    margin-left: 4%;
+}
+#placeholder{
+    color: red;
+}
+
